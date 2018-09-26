@@ -1,11 +1,11 @@
 # Site settings
-author: Derya Kurt
-title: 
+author: Derya Kurt 
+title: Derya
 header-img: img/home-bg.png
 email: deryastyle@me.com
-copyright_name: Derya Kurt
+copyright_name: Derya Kurt 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My journey of learning how to CODE!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  deryastyle7
